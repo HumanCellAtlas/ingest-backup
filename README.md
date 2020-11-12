@@ -1,4 +1,4 @@
-_This repository was part of HCA DCP/1 and is not maintained anymore. DCP/2 development of this component continues under `infra/helm-charts/mongo/charts/ingestbackup` in the forked repository at https://github.com/ebi-ait/ingest-kube-deployment._
+_This repository was part of HCA DCP/1 and is not maintained anymore. DCP/2 development of this component continues under `infra/helm-charts/mongo/charts/ingestbackup` in the repository at https://github.com/ebi-ait/ingest-kube-deployment._
 
 # Ingest Backup
 
